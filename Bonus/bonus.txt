@@ -1,0 +1,3 @@
+Added sight radius
+Player can only see the board within a certain radius (started at 10)
+Increases by 2 everytime an enemy is slain
